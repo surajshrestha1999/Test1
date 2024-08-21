@@ -1,0 +1,15 @@
+C:\Users\suraj\OneDrive\Documents\Test2\Test1\TestUp2\TestUp2\bin\Debug\net6.0\TestUp2.exe
+C:\Users\suraj\OneDrive\Documents\Test2\Test1\TestUp2\TestUp2\bin\Debug\net6.0\TestUp2.deps.json
+C:\Users\suraj\OneDrive\Documents\Test2\Test1\TestUp2\TestUp2\bin\Debug\net6.0\TestUp2.runtimeconfig.json
+C:\Users\suraj\OneDrive\Documents\Test2\Test1\TestUp2\TestUp2\bin\Debug\net6.0\TestUp2.dll
+C:\Users\suraj\OneDrive\Documents\Test2\Test1\TestUp2\TestUp2\bin\Debug\net6.0\TestUp2.pdb
+C:\Users\suraj\OneDrive\Documents\Test2\Test1\TestUp2\TestUp2\obj\Debug\net6.0\TestUp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suraj\OneDrive\Documents\Test2\Test1\TestUp2\TestUp2\obj\Debug\net6.0\TestUp2.AssemblyInfoInputs.cache
+C:\Users\suraj\OneDrive\Documents\Test2\Test1\TestUp2\TestUp2\obj\Debug\net6.0\TestUp2.AssemblyInfo.cs
+C:\Users\suraj\OneDrive\Documents\Test2\Test1\TestUp2\TestUp2\obj\Debug\net6.0\TestUp2.csproj.CoreCompileInputs.cache
+C:\Users\suraj\OneDrive\Documents\Test2\Test1\TestUp2\TestUp2\obj\Debug\net6.0\TestUp2.sourcelink.json
+C:\Users\suraj\OneDrive\Documents\Test2\Test1\TestUp2\TestUp2\obj\Debug\net6.0\TestUp2.dll
+C:\Users\suraj\OneDrive\Documents\Test2\Test1\TestUp2\TestUp2\obj\Debug\net6.0\refint\TestUp2.dll
+C:\Users\suraj\OneDrive\Documents\Test2\Test1\TestUp2\TestUp2\obj\Debug\net6.0\TestUp2.pdb
+C:\Users\suraj\OneDrive\Documents\Test2\Test1\TestUp2\TestUp2\obj\Debug\net6.0\TestUp2.genruntimeconfig.cache
+C:\Users\suraj\OneDrive\Documents\Test2\Test1\TestUp2\TestUp2\obj\Debug\net6.0\ref\TestUp2.dll
